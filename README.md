@@ -1,5 +1,5 @@
 # Mozilla Builders Spring-MVP-Lab Application
-mozilla builders spring-mvp-lab application for project that was later named sailplane
+mozilla builders spring-mvp-lab application for project that was later named [sailplane](https://github.com/cypsela/sailplane)
 
 About the Spring-MVP-Lab: https://builders.mozilla.community/
 
